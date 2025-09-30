@@ -1,1 +1,14 @@
-myhouse.txt
+My destination country is: Japan, with a Japanese-Brazilian beauty
+
+My net yearly income is >$550,000
+
+I have a decent plot of land with my custom house built on it, with a custom AI/server/ network center.
+
+My mode of transportation is a Rimac.
+
+My bed thread count is 2000 AND NOTHING LESS!
+
+A nice house on a cliff, with my house gated, and a nice community.....see the pic
+
+This is also the view from my future house
+![view from my future house](/Users/hades/Documents/TheoWAF/class7/AWS/Projects/testing/future-home-view.jpg)
