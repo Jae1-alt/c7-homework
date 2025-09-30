@@ -78,7 +78,7 @@ After a successful merge, it's good practice to delete the branch, as it's no lo
 Click the **"Delete branch"** button to remove the `feature/update-wk1` branch from the remote GitHub repository.
 
 ---
-## Procedure: Post-Merge Branch Cleanup
+## Post-Merge Branch Cleanup
 
 This procedure outlines the necessary steps to synchronize your local repo and remove the branch(s) no longer in use, after a feature/temporary branch has been successfully merged into the `main` branch on the remote repository.
 
