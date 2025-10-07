@@ -109,10 +109,10 @@ git pull origin main
 
 Remove the feature branch from your local repository. As its changes are now part of `main`, this branch is no longer needed and can be deleted to maintain a clean workspace.
 
-Bash
+Bash commands
 
 ```
-git branch -d name-of-your-feature-branch
+git branch -d feature/update-wk1
 ```
 
 **Note:** Use the `-d` (delete) flag for this operation. Git will prevent deletion if the branch contains unmerged changes, acting as a safety measure. Forcing a deletion requires the `-D` flag.
