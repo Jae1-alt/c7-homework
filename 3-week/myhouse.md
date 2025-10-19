@@ -10,5 +10,5 @@ My bed thread count is 2000 AND NOTHING LESS!
 
 A nice house on a cliff, with my house gated, and a nice community.....see the pic
 
-This is also the view from my future house:
+This is also the view from one of my future homes:
 ![View from my future home.](/3-week/attachments/future-home-view.jpg )
